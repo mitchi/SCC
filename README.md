@@ -14,4 +14,5 @@ Not much to say. Great algorithm, I read the other ones and this one was my favo
 Some links :
 
 http://en.wikipedia.org/wiki/Strongly_connected_component
+
 http://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm
